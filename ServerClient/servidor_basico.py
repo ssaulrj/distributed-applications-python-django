@@ -38,4 +38,5 @@ while 1:
     # Cierra la conexión y repite el bucle
     incoming_stream.close()
     outgoing_stream.close()
-    accepted_socket.close()
+    accepted_socket.close()
+
